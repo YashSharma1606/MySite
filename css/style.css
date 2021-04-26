@@ -73,6 +73,7 @@ images {
 }
 
 .mid-container {
+  padding-top: 50px;
   margin: 100px 0;
 }
 
@@ -83,8 +84,6 @@ images {
 }
 
 .profile {
- padding: 50px, 0, 0;
-  
 }
 
 .copyright {
